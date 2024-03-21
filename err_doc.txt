@@ -1,0 +1,2 @@
+err:
+the err command is used to disply a error code the show suceesful or unsuccesful runing of programs
