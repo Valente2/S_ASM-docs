@@ -1,0 +1,9 @@
+arrithmatic in S_ASM is the same or simalar to most arrithmatic
+you can add varibles
+mov int5,2
+mov int5,3
+3+2
+this puts 5 in address 2 and address 3
+it then adds whatevers in addres 3 and 2
+to preform arthmatic with just numbers it shoud look like this:
+int5 + int5
