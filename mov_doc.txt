@@ -4,5 +4,5 @@ mov "hello",SO
 this command tells the computer to move the string "hello" to the SO(standard output)
 mov inp,name,"enter your name"
 this code tells the computer to collect input(inp) store it with the name: name and the text in quotes is the prompt
-mov 5,4
+mov int5,4
 this command moves the data 5 to addres 4
