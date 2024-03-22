@@ -1,1 +1,1 @@
-[readme.md](https://github.com/Valente2/S_ASM-docs/files/14696926/readme.md)
+the files are here as instctions for S_ASM for anyone who wants to make this a reality
