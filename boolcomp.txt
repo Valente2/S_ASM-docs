@@ -1,0 +1,3 @@
+boolcomp:
+the boolcomp command will compare 2 boolean values ether in memory or being spefiedby the bool prefix.
+

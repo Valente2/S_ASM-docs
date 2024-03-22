@@ -1,0 +1,8 @@
+The JMP family
+JMP:
+JMP will autmatic jump to whatever line speifed to make a loop for example on line 1 the loop starts then you can type JMP 1.
+JIP:
+JIP will jump only if the varible spefifed is positive
+JIN:
+just JIP but negitive
+
