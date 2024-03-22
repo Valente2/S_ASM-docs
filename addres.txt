@@ -1,0 +1,2 @@
+addresses:
+in S_ASM there is 100 (starting at 00) accessible memory addreses the commands are not stored in the memory only what you put there there are also commands that will wipe the memory or just one unit

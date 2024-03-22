@@ -1,0 +1,4 @@
+Arrays:
+in order to use an array you must type like this
+mov arr[2,3,5,7],2 
+this code wilk store the numbers 2,3,5,7 in addres 2

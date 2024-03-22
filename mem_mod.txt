@@ -1,0 +1,6 @@
+memory modifications(no mov)
+cls:
+cls will clear all the memory or in only 1 address
+loc:
+loc will retrun any memory address with the speified data
+
